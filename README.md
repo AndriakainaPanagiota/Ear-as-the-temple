@@ -10,7 +10,8 @@
 <p align="center">
   <img width="345" height="345" src="./1earnest attempt.jpg">
 </p>   
-  **Ear,  The Temple where Otherness is Welcomed, Τranslated , Understood or Misunderstood?**  <br/> <br/>
+  **Ear,  The Temple where Otherness is Welcomed, Τranslated , Understood or Misunderstood?**
+  
 *“Δίχως αυτί δεν υπάρχει τραγούδι ,δίχως αυτί δεν υπάρχει λόγος”*[[1]] 
 
 #### Εισαγωγή
