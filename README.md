@@ -1,5 +1,16 @@
 # Ear, The Temple where Otherness is Welcomed, Τranslated , Understood or Misunderstood?
 
+Ιόνιο Πανεπιστήμιο  
+Σχολή Μουσικής & Οπτικοακουστικών Τεχνών  
+Τμήμα Τεχνών Ήχου και  Εικόνας  
+ΠΜΣ “Οπτικοακουστικές Τέχνες στην Ψηφιακή Εποχή”  
+
+Διαδραστικός Ηχητικός Σχεδιασμός
+
+<p align="center">
+  <img width="460" height="300" src="./1earnest attempt.jpg">
+</p>
+
 
 *“Δίχως αυτί δεν υπάρχει τραγούδι ,δίχως αυτί δεν υπάρχει λόγος”*[[1]]  
 
