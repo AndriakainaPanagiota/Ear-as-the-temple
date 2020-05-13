@@ -8,7 +8,7 @@
 Διαδραστικός Ηχητικός Σχεδιασμός
 
 <p align="center">
-  <img width="460" height="300" src="./1earnest attempt.jpg">
+  <img width="345" height="345" src="./1earnest attempt.jpg">
 </p>
 
 
