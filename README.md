@@ -10,7 +10,9 @@
 <p align="center">
   <img width="345" height="345" src="./1earnest attempt.jpg">
 </p>   
-  Ear,  The Temple where Otherness is Welcomed, Τranslated , Understood or Misunderstood?
+  **Ear,  The Temple where Otherness is Welcomed, Τranslated , Understood or Misunderstood?**  
+    
+    
   
   
 
