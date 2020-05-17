@@ -153,5 +153,9 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 Ο θεατής μέσω της διάδρασης του ποντικιού αποφασίσει σε ποιο μέρος της εικόνας θα εστιάσει και ποιο τμήμα της θα αλλοιώσει. Άραγε και η μνήμη δεν λειτουργεί επιλεκτικά;  
 
 <p align="center">
-  <img width="470" height="232" src="./13a_Interaction_with_memory.jpg">
+  <br />
+  <img width="470" height="232" src="./13a_Interaction_with_memory.jpg"> <br /> <br />
+  <img width="470" height="232" src="./13b_Interaction_with_memory.jpg"> <br /> <br />
+  <img width="470" height="232" src="./13c_Interaction_with_memory.jpg"> <br /> <br />
+  <img width="470" height="232" src="./13d_Interaction_with_memory.jpg"> <br /> <br />
 </p>
