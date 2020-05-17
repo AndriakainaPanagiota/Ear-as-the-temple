@@ -50,13 +50,13 @@
 Echo, as well as those of Odysseus, Perseus, and Orpheus. <br/>
 For Derrida, everything is directed toward the ear of the other, <br/>
  hearing the call of the other, <br/>
-having this call shatter the illusory  
- deception of the gaze that desires, a gaze of blindness, blind to its  
- self, as with Narcissus, deaf to the difference that is the voice of   
-the other, the difference of Echo's repetitions.   
-          At another level, I would suggest that the eye is about  
-confrontation or exclusion, while the ear is about an opening up to  
- community, an attempt to accommodate the foreignness of the   
-other, a foreignness that reverberates along the tympanum of the  
- ear, shaking the very bones of the self.   
+having this call shatter the illusory  <br/>
+ deception of the gaze that desires, a gaze of blindness, blind to its  <br/>
+ self, as with Narcissus, deaf to the difference that is the voice of <br/>
+the other, the difference of Echo's repetitions. <br/>
+          At another level, I would suggest that the eye is about <br/>
+confrontation or exclusion, while the ear is about an opening up to <br/>
+ community, an attempt to accommodate the foreignness of the <br/>
+other, a foreignness that reverberates along the tympanum of the <br/>
+ ear, shaking the very bones of the self. <br/>
 </p>
