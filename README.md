@@ -103,5 +103,5 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 «Το ιδεώδες του σοφού  είναι ένα αυτί έτοιμο να ακούσει» .Αυτή η φράση του Ζακ Σιρακ τριγυρνούσε στο μυαλό μου.[[11]]   
 Ίσως γιατί διαισθάνομαι ότι ενώ ακούμε πολλά κατανοούμε και αφουγκραζόμαστε ολοένα και λιγότερο. Μια φράση του Μπέργκμαν μου φαίνεται ιδιαίτερα  σημαντική, Θέλω να ακούσω όλες τις φωνές να μην τρομάζω με καμία, να παραδοθώ σε αυτές, να τις αφομοιώσω κι όμως να παραμείνω δεκτικός για όλο και καινούριες.  
 Σε ένα άρθρο, σχετικό με την φιλοσοφική σημασία της ακοής και του αυτιού, βρήκα το ακόλουθο απόσπασμα, θεωρώντας ότι μπορεί να λειτουργήσει ως καθοδηγητικός μίτος στην πορεία της εργασίας μου:  
-*he ear would in some cases, like that of bats, be able to 'see' better than the eye. While the ear is about an opening up to community, an attempt to accommodate the foreignness of the other, a foreignness that reverberates along the tympanum of the ear, shaking the very bones of the self.**
+*The ear would in some cases, like that of bats, be able to 'see' better than the eye. While the ear is about an opening up to community, an attempt to accommodate the foreignness of the other, a foreignness that reverberates along the tympanum of the ear, shaking the very bones of the self.*
 
