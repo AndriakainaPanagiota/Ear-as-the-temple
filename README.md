@@ -166,5 +166,5 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 Την ανθρώπινη δυσκολία συνοδεύουν ήχοι, που εύχομαι να μπορούσαν να έχουν ένα θεραπευτικό χαρακτήρα. Με άλλα λόγια, πρόσθεσα τους θιβετιανούς ήχους σαν μια ευχή προς τον άνθρωπο που πάσχει. 
 
 <p align="center">
-  <img width="576" height="280" src="./12a_Interaction_with_memory.jpg">
+  <img width="576" height="280" src="./13e_Interaction_with_memory.jpg">
 </p>
