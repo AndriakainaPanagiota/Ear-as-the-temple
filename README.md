@@ -122,4 +122,6 @@ other, a foreignness that reverberates along the tympanum of the <br/>
   <img width="265" height="265" src="./8_T-ears.png">
   <img width="265" height="265" src="./9_Ear-nest attempt.png">
   <br/> <br/>
+  <img width="265" height="265" src="./10_Guard_this_object.png">
+  <img width="265" height="265" src="./11_Lend_me_your_ears.png">
 </p>
