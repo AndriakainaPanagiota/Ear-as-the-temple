@@ -65,4 +65,4 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 και σημάδεψε τις αναζητήσεις και τις αγωνίες μου.  
 Πρόκειται για τους πίνακες του Lucio Fontana, τις χαρακιές πάνω στον καμβά.  
 
-<img width="192" height="345" src="./3_Lucio_Fontana.png">
+<img width="345" height="192" src="./3_Lucio_Fontana.png">
