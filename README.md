@@ -45,11 +45,11 @@
 #### Μια αφήγηση με τίτλο: «Μια συνομιλία ανάμεσα στο Εγώ και τον Άλλον» 
 
 <p align="right">
- The division between eye/'I' and ear/other would appear to  
- structure a number of myths, most notably that of Narcissus and   
-Echo, as well as those of Odysseus, Perseus, and Orpheus.   
-For Derrida, everything is directed toward the ear of the other,  
- hearing the call of the other,   
+ The division between eye/'I' and ear/other would appear to <br/>
+ structure a number of myths, most notably that of Narcissus and  <br/>
+Echo, as well as those of Odysseus, Perseus, and Orpheus. <br/>
+For Derrida, everything is directed toward the ear of the other, <br/>
+ hearing the call of the other, <br/>
 having this call shatter the illusory  
  deception of the gaze that desires, a gaze of blindness, blind to its  
  self, as with Narcissus, deaf to the difference that is the voice of   
