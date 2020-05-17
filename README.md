@@ -43,3 +43,20 @@
  Σε αυτό το έργο του ο Baldessari  προσεγγίζει το πώς ο Μπετόβεν, έχοντας ήδη χάσει την ακοή του, είναι σε θέση να συνθέσει μια σειρά μουσικών έργων. Το ζητούμενο του  Baldessari  είναι να θέσει σε παρενθέσεις την όραση, δηλαδή εκείνη την αίσθηση ανάμεσα στις πέντε αισθήσεις, η οποία απέκτησε μια προνομιακή θέση κατά τη μετάβαση από την προφορικότητα και τη συμμετοχικότητα, η οποία κατεξοχήν χαρακτηρίζει τις προνεοτερικές, παραδοσιακές κοινωνίες, στο θεωρείν, δηλαδή στην όραση και στο αποστασιοποιημένο βλέμμα που έγινε κυρίαρχο στον νεωτερικό πολιτισμό της γραφής.  Όπως σημειώνεται χαρακτηριστικά,  ο  Baldessari  ενδιαφέρεται για το πως παράγεται νόημα μέσω των άλλων αισθήσεων, πέρα από τη θέαση, την προνομιούχο όραση, “ το έργο του είναι σιωπηρό, δεν απευθύνεται στο αυτί, στην ακοή, μέχρι που ο θεατής σκύβει και μιλάει στη σάλπιγγα, στην τρομπέτα. Εκεί θα ακούσει  μια σύντομη σύνθεση από  τα έξι τελευταία κουαρτέτα του κωφού πλέον Μπετόβεν".
  
 #### Μια αφήγηση με τίτλο: «Μια συνομιλία ανάμεσα στο Εγώ και τον Άλλον» 
+
+<p align="right">
+ The division between eye/'I' and ear/other would appear to
+ structure a number of myths, most notably that of Narcissus and 
+Echo, as well as those of Odysseus, Perseus, and Orpheus. 
+For Derrida, everything is directed toward the ear of the other,
+ hearing the call of the other, 
+having this call shatter the illusory
+ deception of the gaze that desires, a gaze of blindness, blind to its
+ self, as with Narcissus, deaf to the difference that is the voice of 
+the other, the difference of Echo's repetitions. 
+          At another level, I would suggest that the eye is about 
+confrontation or exclusion, while the ear is about an opening up to
+ community, an attempt to accommodate the foreignness of the 
+other, a foreignness that reverberates along the tympanum of the
+ ear, shaking the very bones of the self. 
+</p>
