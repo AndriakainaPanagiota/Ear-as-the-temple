@@ -146,4 +146,5 @@ other, a foreignness that reverberates along the tympanum of the <br/>
   <br />
   <br />
   <img width="430" height="357" src="./12b_Interaction_with_memory.png">
+   <br />     λεπτομέρεια αρχικής εικόνας
 </p>
