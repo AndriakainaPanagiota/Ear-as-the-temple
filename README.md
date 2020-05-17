@@ -141,8 +141,8 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 Η εικόνα μέσω της διάδρασης του θεατή με το ποντίκι του υπολογιστή,  αλλάζει σύμφωνα με τις φωτογραφίες που ακολουθούν. Άνθρωποι διαφορετικών ηλικιών και ενασχολήσεων, ένα παιδί, η γιαγιά ,μια κομμώτρια κοιτούν τον καθρέφτη και βλέπουν μια εικόνα όπου η ατομική ιστορία συμπλέκεται με τη συλλογική.
 
 <p align="center">
-  <img width="500" height="265" src="./12a_Interaction_with_memory.jpg">
-  Αρχική εικόνα
+  <img width="500" height="265" src="./12a_Interaction_with_memory.jpg"> <br />
+  Αρχική εικόνα 
   <br />
   <br />
   <img width="430" height="357" src="./12b_Interaction_with_memory.png">
