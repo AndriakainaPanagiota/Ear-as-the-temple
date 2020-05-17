@@ -119,5 +119,6 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 Μάλλον ,επιθυμώ ένα αυτί σαν «φωλιά» ικανό να φιλοξενήσει αυτό που πρόκειται να γεννηθεί ακόμη κι αν βασανιστικά «τρυπιέται» από γραμμές που μοιάζουν με καρφίτσες. «Αυτός ο τρόπος του να ακούς ,δεν ήταν δυνατός δίχως να παραιτηθείς από δικά σου συναισθήματα». [[14]]
 
 <p align="left">
-  <img width="150" height="150" src="./8_T-ears.png">
+  <img width="265" height="265" src="./8_T-ears.png">
+  <img width="265" height="265" src="./9_Ear-nest attempt.png">
 </p>
