@@ -87,6 +87,12 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 
 
 <p align="center">
-  <img width="230" height="307" src="./4_ear _oil_on_canvas.jpg">
+  <img width="230" height="307" src="./4_ear _oil_on_canvas.jpg"> <br />
 </p>     
+
+«Το αυτί τείνει το πρώτο αισθητήριο όργανο που εγκαθίσταται…Κάνει την εμφάνιση του ήδη από τις πρώτες μέρες της σύλληψης.Σχηματίζεται με μια ταχύτητα που δεν τη χωρά ο νους μας ,καθώς λειτουργικά έχει ολοκληρωθεί»[[10]]   
+Στον πορεία συνέλεξα φωτογραφικό υλικό.
+
+
+
 
