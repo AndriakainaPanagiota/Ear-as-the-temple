@@ -95,6 +95,8 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 
 <p align="center">
   <img width="515" height="192" src="./5_photos_of_ears1.jpg"> <br />
+  <img width="515" height="192" src="./6_photos_of_ears2.jpg"> <br />
+  <img width="515" height="192" src="./7_photos_of_ears3.jpg"> <br />
 </p>    
 
 
