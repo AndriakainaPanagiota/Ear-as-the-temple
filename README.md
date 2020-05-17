@@ -86,3 +86,7 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 Ξεκίνησα την εργασία  μου με μια σειρά ρεαλιστικών απεικονίσεων του αυτιού.   
 
 
+<p align="center">
+  <img width="230" height="307" src="./4_ear _oil_on_canvas.jpg">
+</p>     
+
