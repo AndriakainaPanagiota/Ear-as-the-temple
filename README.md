@@ -177,6 +177,6 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 
 #### Οι «αισθήσεις» στην εικαστική τέχνη  
 
-<p align="center">
+<p align="left">
   <img width="452" height="356" src="./18 Rembrandt _Sampson .png">
 </p>
