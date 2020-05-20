@@ -189,4 +189,8 @@ Vincent Van Gogh, Self-Portrait with Bandaged Ear-1889[[19]]
 Fenestration of the Ear (The Microscope) -Dame Barbara Hepworth-1948 
 
 <img align="left" width="240" height="357" src="./21_Karel_Appel_The_big.png"> <br/> <br/> <br/> <br/><br/><br/> <p> Λίγα πράγματα γνωρίζουμε για το «Μεγάλο αυτί» του Karel Appel εκτός από το γεγονός ότι  ήταν ο ίδιος  και ποιητής και πως το 1948 που συγκροτήθηκε η ομάδα Combra στην οποία συμμετείχε, εκτός από ζωγράφους ,υπήρξε μέλος και ο Βέλγος ποιητής  Christian Dotremont. </p> <br/> <br/>  <br/><br/> <br/>
-Karel Appel. The Big Ear. 1954 | MoMA [[20]]
+Karel Appel. The Big Ear. 1954 | MoMA [[20]]  
+
+Στο Heredity Study το 1971 η Αθηνά Τάχα θίγει ζητήματα κληρονομικότητας συγκρίνοντας τα δικά της φυσικά χαρακτηριστικά με τους γονείς της,  τους παππούδες, γιαγιάδες της  
+
+<img width="360" height="243" src="./22 Heredity Study _Athena Tacha.png">
