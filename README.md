@@ -188,5 +188,5 @@ Vincent Van Gogh, Self-Portrait with Bandaged Ear-1889[[19]]
 <img align="left" width="325" height="253" src="./20_Fenestration_of_ear.jpg"> <br/> <br/> <p> Το 1948  η Dame Barbara Hepworth  που παρακολουθούσε από κοντά πολλές χειρουργικές επεμβάσεις στο έργο της με τίτλο "Fenestration of the Ear (The Microscope)" περιγράφει την προσπάθεια αποκατάστασης της ακοής του ασθενούς. </p> <br/> <br/> <br/> <br/>
 Fenestration of the Ear (The Microscope) -Dame Barbara Hepworth-1948 
 
-<img align="left" width="325" height="253" src="./21_Karel_Appel_The_big.png"> <br/> <br/> <p> Λίγα πράγματα γνωρίζουμε για το «Μεγάλο αυτί» του Karel Appel εκτός από το γεγονός ότι  ήταν ο ίδιος  και ποιητής και πως το 1948 που συγκροτήθηκε η ομάδα Combra στην οποία συμμετείχε, εκτός από ζωγράφους ,υπήρξε μέλος και ο Βέλγος ποιητής  Christian Dotremont. </p> <br/> <br/> <br/> <br/>
-Fenestration of the Ear (The Microscope) -Dame Barbara Hepworth-1948 
+<img align="left" width="240" height="357" src="./21_Karel_Appel_The_big.png"> <br/> <br/> <p> Λίγα πράγματα γνωρίζουμε για το «Μεγάλο αυτί» του Karel Appel εκτός από το γεγονός ότι  ήταν ο ίδιος  και ποιητής και πως το 1948 που συγκροτήθηκε η ομάδα Combra στην οποία συμμετείχε, εκτός από ζωγράφους ,υπήρξε μέλος και ο Βέλγος ποιητής  Christian Dotremont. </p> <br/> <br/> <br/> <br/>
+Karel Appel. The Big Ear. 1954 | MoMA [[20]]
