@@ -171,4 +171,12 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 
 [Ηχητικό Αρχείο Εργασίας](/Istories_Prosfygiko.mp3)   
 
-[Video Interaction with Processing Application](/video_interaction.mp4)
+[Video Interaction with Processing Application](/video_interaction.mp4)  
+
+#### Παράρτημα Α  
+
+#### Οι «αισθήσεις» στην εικαστική τέχνη  
+
+<p align="center">
+  <img width="576" height="280" src="./18 Rembrandt _Sampson .png">
+</p>
