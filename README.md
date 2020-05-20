@@ -169,5 +169,6 @@ other, a foreignness that reverberates along the tympanum of the <br/>
   <img width="576" height="280" src="./13e_Interaction_with_memory.jpg">
 </p>
 
-[Ηχητικό Αρχείο Εργασίας](/Istories_Prosfygiko.mp3)
-[Video Interaction with Processing Application](/Video_interaction.mp4)
+[Ηχητικό Αρχείο Εργασίας](/Istories_Prosfygiko.mp3)   
+
+[Video Interaction with Processing Application](/video_interaction.mp4)
