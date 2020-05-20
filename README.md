@@ -185,4 +185,5 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 <img align="left" width="250" height="303" src="./19_Vincent Van Gogh.png"> <p> Ο Van Gogh παραδίδει το ακρωτηριασμένο του αυτί στην  πόρνη Rachel λέγοντας της, «Guard this object with your life» ,την περίοδο που ονειρεύεται να δημιουργήσει ένα studio καλλιτεχνών ,μια κοινότητα καλλιτεχνών. </p>  <br/> <br/> <br/> <br/> <br/> <br/><br/><br/> <br/>
 Vincent Van Gogh, Self-Portrait with Bandaged Ear-1889[[19]]  
 
-
+<img align="left" width="250" height="303" src="./20_Fenestration_of_ear.jpg"> <br/> <br/> <p> Το 1948  η Dame Barbara Hepworth  που παρακολουθούσε από κοντά πολλές χειρουργικές επεμβάσεις στο έργο της με τίτλο "Fenestration of the Ear (The Microscope)" περιγράφει την προσπάθεια αποκατάστασης της ακοής του ασθενούς. </p>  <br/ > <br />
+Fenestration of the Ear (The Microscope) -Dame Barbara Hepworth-1948 
