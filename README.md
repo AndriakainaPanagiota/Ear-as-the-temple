@@ -193,9 +193,15 @@ Karel Appel. The Big Ear. 1954 | MoMA [[20]]
 
 Στο Heredity Study το 1971 η Αθηνά Τάχα θίγει ζητήματα κληρονομικότητας συγκρίνοντας τα δικά της φυσικά χαρακτηριστικά με τους γονείς της,  τους παππούδες, γιαγιάδες της  
 
-<img width="360" height="243" src="./22 Heredity Study _Athena Tacha.png">  Heredity Study[[21]]: 1970-71" by Athena Tacha[[22]]  
+<img width="360" height="243" src="./22 Heredity Study _Athena Tacha.png"> 
+Heredity Study[[21]]: 1970-71" by Athena Tacha[[22]]   
 
-<img align="left" width="240" height="357" src="./23 Louise Bourgeois_Ear.png"> <br/> <br/> <br/> <p> Τα αυτιά της Louise Bourgeois έχουν μια τρύπα ραμμένη σαν κουμπότρυπα «άδεια» χωρίς το κουμπί. </p> <br/> <br/>  <br/><br/> <br/>
+
+
+<img align="left" width="240" height="357" src="./23 Louise Bourgeois_Ear.png"> <br/> <br/> <br/> <p> Τα αυτιά της Louise Bourgeois έχουν μια τρύπα ραμμένη σαν κουμπότρυπα «άδεια» χωρίς το κουμπί. </p> <br/> <br/>  <br/><br/> <br/> <br/> <br/>  <br/><br/> <br/>
+Louise Bourgeois. Ear. 2004 | MoMA 
+
+
 
 
 
