@@ -170,4 +170,10 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 </p>
 
 [Ηχητικό Αρχείο Εργασίας](/Istories_Prosfygiko.mp3)
-
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="./video_interaction.mp4" type="video/mp4">
+    <source src="path/to/video.ogg" type="video/ogg">
+    <source src="path/to/video.webm" type="video/webm">
+  </video>
+</figure>
