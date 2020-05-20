@@ -182,6 +182,6 @@ other, a foreignness that reverberates along the tympanum of the <br/>
   Rembrandt _Sampson Blinding-1636
 </p>
 
-  Ο Van Gogh παραδίδει το ακρωτηριασμένο του αυτί στην  πόρνη Rachel λέγοντας της, «Guard this object with your life» ,την περίοδο που ονειρεύεται να δημιουργήσει ένα studio καλλιτεχνών ,μια κοινότητα καλλιτεχνών.
-<img width="250" height="303" src="./19_Vincent Van Gogh.png" style="float:left">  
+ 
+<img align="left" width="250" height="303" src="./19_Vincent Van Gogh.png" style="float:left"> Ο Van Gogh παραδίδει το ακρωτηριασμένο του αυτί στην  πόρνη Rachel λέγοντας της, «Guard this object with your life» ,την περίοδο που ονειρεύεται να δημιουργήσει ένα studio καλλιτεχνών ,μια κοινότητα καλλιτεχνών.
 Vincent Van Gogh, Self-Portrait with Bandaged Ear-1889[[19]]
