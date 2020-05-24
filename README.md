@@ -240,31 +240,46 @@ https://www.youtube.com/watch?v=fam73mQQhmk
 
 
 Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα:Εκδόσεις Καστανιώτη,2004).
+
 Marcel Proust., Αναζητώντας τον χαμένο χρόνο, (Αθήνα :Εκδόσεις Εστία,2011).
+
  Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000).
+ 
  Anderson, Mary. “Hamlet: The Dialect Between Eye and Ear.” Renaissance and Reformation 27 (1991)
 https://digital.lib.usf.edu/SFS0024732/00001-
+
 “The Surprising World of Synaesthesia”, The British Psychological Society, https://thepsychologist.bps.org.uk/volume-28/february-2015/surprising-world-synaesthesia
+
  Useum. Online encyclopedia of art.
 https://useum.org/artwork/The-Blinding-of-Samson-Rembrandt-1636
+
 Khan Academy
  https://www.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism/a/van-gogh-self-portrait-with-bandaged-ear
+ 
  Artsdot.com
  https://en.artsdot.com/@@/AS7TNM-Karel-Appel-The-Big-Ear
+ 
  Artists' Books at MassArt. Heredity Study : 1970-71 by Athena Tacha
 https://blogs.massart.edu/artistsbooks/2016/03/22/heredity-study-1970-71-by-athena-tacha/
+
  Printed Matter, Inc. 
  https://www.printedmatter.org/catalog/1359/
+ 
  ArtFund.
 https://www.artfund.org/supporting-museums/art-weve-helped-buy/artwork/9655/ears-2004
+
 The art story. John Baldessari Artworks.
 https://www.theartstory.org/artist/baldessari-john/artworks/
+
   Artsy.net
  https://www.artsy.net/artwork/john-baldessari-face-with-nose-and-ear
+ 
   Labiotech.eu.
 https://www.labiotech.eu/bioart/stelarc-ear-art-human-body/
+
   The body is obsolete - Stelarc
 https://www.youtube.com/watch?v=fam73mQQhmk
+
 Claude Shannon:Ο πατέρας της θεωρίας της πληροφορίας, Physics 4U 
 http://www.physics4u.gr/articles/shannon.html
 
