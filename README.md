@@ -192,34 +192,49 @@ https://digital.lib.usf.edu/SFS0024732/00001-
 <a name=link8></a> [8] Andreas Guibert, La piel develada en las foto-instalaciones de Jose Luis Navarrete
 https://www.academia.edu/226059/La_piel_develada_en_las_foto-instalaciones_de_Jose_Luis_Navarrete
 
-<a name=link9></a> [9] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα: Εκδόσεις Καστανιώτη,2004), 257.
-<a name=link10></a> [10] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),120.
-<a name=link11></a> [11] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),120.
-<a name=link12></a> [12] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα:Εκδόσεις Καστανιώτη,2004).
-<a name=link13></a> [13] Marcel Proust., Αναζητώντας τον χαμένο χρόνο, (Αθήνα :Εκδόσεις Εστία,2011) , 350. 
-<a name=link14></a> [14] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα: Εκδόσεις Καστανιώτη,2004),258.
+<a name=link9></a> [9] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα: Εκδόσεις Καστανιώτη,2004), 257.  
+
+<a name=link10></a> [10] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),120.  
+
+<a name=link11></a> [11] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),120.  
+
+<a name=link12></a> [12] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα:Εκδόσεις Καστανιώτη,2004).  
+
+<a name=link13></a> [13] Marcel Proust., Αναζητώντας τον χαμένο χρόνο, (Αθήνα :Εκδόσεις Εστία,2011) , 350.  
+
+<a name=link14></a> [14] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα: Εκδόσεις Καστανιώτη,2004),258.  
+
 <a name=link15></a> [15] Ηχητικό αρχείο εργασίας
 https://drive.google.com/file/d/1DaX4qbWDAg8TofWHSEj6rxYnpw-kf-1n/view?usp=sharing  
 
 <a name=link16></a> [16] Ελίας Κανέτι, Ο πυρσός στο αυτί ,σελ259
+
 <a name=link17></a> [17] Ελίας Κανέτι, Ο πυρσός στο αυτί ,σελ297
+
 <a name=link18></a> [18] Claude Shannon:Ο πατέρας της θεωρίας της πληροφορίας, Physics 4U 
 http://www.physics4u.gr/articles/shannon.html
 
 <a name=link19></a> [19] Khan Academy
  https://www.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism/a/van-gogh-self-portrait-with-bandaged-ear
+ 
 <a name=link20></a> [20] Artsdot.com
  https://en.artsdot.com/@@/AS7TNM-Karel-Appel-The-Big-Ear
+ 
 <a name=link21></a> [21] Artists' Books at MassArt. Heredity Study : 1970-71 by Athena Tacha
 https://blogs.massart.edu/artistsbooks/2016/03/22/heredity-study-1970-71-by-athena-tacha/
+
 <a name=link22></a> [22] Printed Matter, Inc. 
  https://www.printedmatter.org/catalog/1359/
+ 
 <a name=link23></a> [23] ArtFund.
 https://www.artfund.org/supporting-museums/art-weve-helped-buy/artwork/9655/ears-2004
+
 <a name=link24></a> [24] The art story.John Baldessari Artworks.
 https://www.theartstory.org/artist/baldessari-john/artworks/
+
 <a name=link25></a> [25] Labiotech.eu.
 https://www.labiotech.eu/bioart/stelarc-ear-art-human-body/
+
 <a name=link26></a> [26] The body is obsolete - Stelarc
 https://www.youtube.com/watch?v=fam73mQQhmk
 
