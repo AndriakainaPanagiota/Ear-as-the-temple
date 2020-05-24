@@ -173,6 +173,12 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 
 [Video Interaction with Processing Application](/video_interaction.mp4)  
 
+#### Βιβλιογραφία-Ιστογραφία
+<a name=link1></a> [1] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),121.
+<a name=link1></a> [2] Ιωάννα της Λωρραίνης. Βικιπαίδεια.
+https://el.wikipedia.org/wiki/%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B1_%CF%84%CE%B7%CF%8
+
+
 #### Παράρτημα Α  
 
 #### Οι «αισθήσεις» στην εικαστική τέχνη  
