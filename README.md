@@ -58,7 +58,7 @@ the other, the difference of Echo's repetitions. <br/>
 confrontation or exclusion, while the ear is about an opening up to <br/>
  community, an attempt to accommodate the foreignness of the <br/>
 other, a foreignness that reverberates along the tympanum of the <br/>
- ear, shaking the very bones of the self [[8]](#link8). <br/>
+ ear, shaking the very bones of the self [[8]](#link8) . <br/>
 </p>
   
 Κατά τη διάρκεια των σπουδών μου στην Καλών Τεχνών, ένα έργο μου έκανε ιδιαίτερη εντύπωση  
