@@ -174,18 +174,24 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 #### Βιβλιογραφία-Ιστογραφία
 <a name=link1></a> [1] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),121.  
 <a name=link2></a> [2] Ιωάννα της Λωρραίνης. Βικιπαίδεια.
-https://el.wikipedia.org/wiki/%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B1_%CF%84%CE%B7%CF%82_%CE%9B%CF%89%CF%81%CF%81%CE%B1%CE%AF%CE%BD%CE%B7%CF%82
+https://el.wikipedia.org/wiki/%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B1_%CF%84%CE%B7%CF%82_%CE%9B%CF%89%CF%81%CF%81%CE%B1%CE%AF%CE%BD%CE%B7%CF%82 
+
 <a name=link3></a> [3] Μάλχος (Καινή Διαθήκη) . Βικιπαίδεια.
 https://el.wikipedia.org/wiki/%CE%9C%CE%AC%CE%BB%CF%87%CE%BF%CF%82_(%CE%9A%CE%B1%CE%B9%CE%BD%CE%AE_%CE%94%CE%B9%CE%B1%CE%B8%CE%AE%CE%BA%CE%B7)
+
 <a name=link4></a> [4] Σαμψών (βιβλική μορφή) . Βικιπαίδεια.
 https://el.wikipedia.org/wiki/%CE%A3%CE%B1%CE%BC%CF%88%CF%8E%CE%BD_(%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%BA%CE%AE_%CE%BC%CE%BF%CF%81%CF%86%CE%AE)
+
 <a name=link5></a> [5] Useum.Online encyclopedia of art.
 https://useum.org/artwork/The-Blinding-of-Samson-Rembrandt-1636
 <a name=link6></a> [6] Anderson, Mary. “Hamlet: The Dialect Between Eye and Ear.” Renaissance and Reformation 27 (1991)
 https://digital.lib.usf.edu/SFS0024732/00001-
+
 <a name=link7></a> [7] “The Surprising World of Synaesthesia”, The British Psychological Society, https://thepsychologist.bps.org.uk/volume-28/february-2015/surprising-world-synaesthesia
+
 <a name=link8></a> [8] Andreas Guibert, La piel develada en las foto-instalaciones de Jose Luis Navarrete
 https://www.academia.edu/226059/La_piel_develada_en_las_foto-instalaciones_de_Jose_Luis_Navarrete
+
 <a name=link9></a> [9] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα: Εκδόσεις Καστανιώτη,2004), 257.
 <a name=link10></a> [10] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),120.
 <a name=link11></a> [11] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),120.
@@ -193,11 +199,13 @@ https://www.academia.edu/226059/La_piel_develada_en_las_foto-instalaciones_de_Jo
 <a name=link13></a> [13] Marcel Proust., Αναζητώντας τον χαμένο χρόνο, (Αθήνα :Εκδόσεις Εστία,2011) , 350. 
 <a name=link14></a> [14] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα: Εκδόσεις Καστανιώτη,2004),258.
 <a name=link15></a> [15] Ηχητικό αρχείο εργασίας
-https://drive.google.com/file/d/1DaX4qbWDAg8TofWHSEj6rxYnpw-kf-1n/view?usp=sharing
+https://drive.google.com/file/d/1DaX4qbWDAg8TofWHSEj6rxYnpw-kf-1n/view?usp=sharing  
+
 <a name=link16></a> [16] Ελίας Κανέτι, Ο πυρσός στο αυτί ,σελ259
 <a name=link17></a> [17] Ελίας Κανέτι, Ο πυρσός στο αυτί ,σελ297
 <a name=link18></a> [18] Claude Shannon:Ο πατέρας της θεωρίας της πληροφορίας, Physics 4U 
 http://www.physics4u.gr/articles/shannon.html
+
 <a name=link19></a> [19] Khan Academy
  https://www.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism/a/van-gogh-self-portrait-with-bandaged-ear
 <a name=link20></a> [20] Artsdot.com
