@@ -216,19 +216,19 @@ https://drive.google.com/file/d/1DaX4qbWDAg8TofWHSEj6rxYnpw-kf-1n/view?usp=shari
 <a name=link18></a> [18] Claude Shannon:Ο πατέρας της θεωρίας της πληροφορίας, Physics 4U 
 http://www.physics4u.gr/articles/shannon.html
 
-<a name=link19></a> [19] Khan Academy
+<a id="link19"></a> [19] Khan Academy
  https://www.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism/a/van-gogh-self-portrait-with-bandaged-ear
  
 <a name=link20></a> [20] Artsdot.com
  https://en.artsdot.com/@@/AS7TNM-Karel-Appel-The-Big-Ear
  
-<a name=link21></a> [21] Artists' Books at MassArt. Heredity Study : 1970-71 by Athena Tacha
+<a id="link21"></a> [21] Artists' Books at MassArt. Heredity Study : 1970-71 by Athena Tacha
 https://blogs.massart.edu/artistsbooks/2016/03/22/heredity-study-1970-71-by-athena-tacha/
 
-<a name=link22></a> [22] Printed Matter, Inc. 
+<a id="link22"></a> [22] Printed Matter, Inc. 
  https://www.printedmatter.org/catalog/1359/
  
-<a name=link23></a> [23] ArtFund.
+<a id="link23"></a> [23] ArtFund.
 https://www.artfund.org/supporting-museums/art-weve-helped-buy/artwork/9655/ears-2004
 
 <a name=link24></a> [24] The art story.John Baldessari Artworks.
@@ -300,18 +300,18 @@ http://www.physics4u.gr/articles/shannon.html
 </p>
 
 <img align="left" width="250" height="303" src="./19_Vincent Van Gogh.png"> <p> Ο Van Gogh παραδίδει το ακρωτηριασμένο του αυτί στην  πόρνη Rachel λέγοντας της, «Guard this object with your life» ,την περίοδο που ονειρεύεται να δημιουργήσει ένα studio καλλιτεχνών ,μια κοινότητα καλλιτεχνών. </p>  <br/> <br/> <br/> <br/> <br/> <br/><br/><br/> <br/>
-Vincent Van Gogh, Self-Portrait with Bandaged Ear-1889[[19]] (#link19)  
+Vincent Van Gogh, Self-Portrait with Bandaged Ear-1889<a href="#link19">[19]</a>  
 
 <img align="left" width="325" height="253" src="./20_Fenestration_of_ear.jpg"> <br/> <br/> <p> Το 1948  η Dame Barbara Hepworth  που παρακολουθούσε από κοντά πολλές χειρουργικές επεμβάσεις στο έργο της με τίτλο "Fenestration of the Ear (The Microscope)" περιγράφει την προσπάθεια αποκατάστασης της ακοής του ασθενούς. </p> <br/> <br/> <br/> <br/>
 Fenestration of the Ear (The Microscope) -Dame Barbara Hepworth-1948 
 
 <img align="left" width="240" height="357" src="./21_Karel_Appel_The_big.png"> <br/> <br/> <br/> <br/><br/><br/> <p> Λίγα πράγματα γνωρίζουμε για το «Μεγάλο αυτί» του Karel Appel εκτός από το γεγονός ότι  ήταν ο ίδιος  και ποιητής και πως το 1948 που συγκροτήθηκε η ομάδα Combra στην οποία συμμετείχε, εκτός από ζωγράφους ,υπήρξε μέλος και ο Βέλγος ποιητής  Christian Dotremont. </p> <br/> <br/>  <br/><br/> <br/>
-Karel Appel. The Big Ear. 1954 | MoMA [[20]] (#link20)
+Karel Appel. The Big Ear. 1954 | MoMA <a href="#link20">[20]</a>
 
 Στο Heredity Study το 1971 η Αθηνά Τάχα θίγει ζητήματα κληρονομικότητας συγκρίνοντας τα δικά της φυσικά χαρακτηριστικά με τους γονείς της,  τους παππούδες, γιαγιάδες της  
 
 <img width="360" height="243" src="./22 Heredity Study _Athena Tacha.png"> 
-Heredity Study[[21]](#link21): 1970-71" by Athena Tacha[[22]](#link22)    
+Heredity Study<a href="#link21">[21]</a>: 1970-71" by Athena Tacha<a href="#link22">[22]</a>    
 <br />
 
 
@@ -319,7 +319,7 @@ Heredity Study[[21]](#link21): 1970-71" by Athena Tacha[[22]](#link22)
 Louise Bourgeois. Ear. 2004 | MoMA 
 
 <img width="580" height="685" src="./24 Louise Bourgeois. Ears. 2004.jpg">  
-Louise Bourgeois. Ears. 2004 [[23]](#link23)
+Louise Bourgeois. Ears. 2004 <a href="#link23">[23]</a>
 
 
 
