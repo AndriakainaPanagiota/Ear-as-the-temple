@@ -58,9 +58,9 @@ the other, the difference of Echo's repetitions. <br/>
 confrontation or exclusion, while the ear is about an opening up to <br/>
  community, an attempt to accommodate the foreignness of the <br/>
 other, a foreignness that reverberates along the tympanum of the <br/>
- ear, shaking the very bones of the self. <br/>
+  ear, shaking the very bones of the self. <a href="link8">[8]</a><br/>
 </p>
-[[8]](#link8)
+
   
 Κατά τη διάρκεια των σπουδών μου στην Καλών Τεχνών, ένα έργο μου έκανε ιδιαίτερη εντύπωση  
 και σημάδεψε τις αναζητήσεις και τις αγωνίες μου.  
@@ -191,7 +191,7 @@ https://digital.lib.usf.edu/SFS0024732/00001-
 
 <a name=link7></a> [7] “The Surprising World of Synaesthesia”, The British Psychological Society, https://thepsychologist.bps.org.uk/volume-28/february-2015/surprising-world-synaesthesia
 
-<a name=link8></a> [8] Andreas Guibert, La piel develada en las foto-instalaciones de Jose Luis Navarrete
+<a id="link8"></a> [8] Andreas Guibert, La piel develada en las foto-instalaciones de Jose Luis Navarrete
 https://www.academia.edu/226059/La_piel_develada_en_las_foto-instalaciones_de_Jose_Luis_Navarrete
 
 <a name=link9></a> [9] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα: Εκδόσεις Καστανιώτη,2004), 257.  
