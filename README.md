@@ -321,7 +321,8 @@ Louise Bourgeois. Ear. 2004 | MoMA
 <img width="580" height="685" src="./24 Louise Bourgeois. Ears. 2004.jpg">  
 Louise Bourgeois. Ears. 2004 <a href="#link23">[23]</a>
 
-
+<img src="./John_Baldessari.png">  
+John Baldessari ,Face with Nose and Ear, 2007
 
 
 
