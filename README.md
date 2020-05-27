@@ -340,7 +340,7 @@ John Baldessari Noses and Ears<a href="#link24">[24]</a>2006
 #### Παράρτημα B
 #### Διάδραση_ Κώδικας στην γλώσσα προγραμματισμού processing   
 
-'''
+
 import processing.sound.*;
 
 SoundFile file;
@@ -349,27 +349,22 @@ PImage facilities;
 
 float time;                                           
 
-void setup(){
-     size(1640,920);
-         
-     facilities = loadImage("ihotopia-kolag.jpg");     
-                                                                         
+void setup()
+{
+     size(1640,920);         
+     facilities = loadImage("ihotopia-kolag.jpg");                                                                            
      background(255);                  
-     frameRate(25);
-     
+     frameRate(25);     
      file = new SoundFile(this, "Istories-prosfygiko35_very-low-quality.mp3");
 }
-void draw(){
 
+void draw(){
     tint(255,126);
     image(facilities,mouseX,mouseY); 
-
     delay(100);                              
-
     line(0,720,1640,720);
     line(mouseX,520,mouseX,1640);
    //saveFrame("video_#############################.jpeg"); 
-
 }
 
 void mouseMoved() {
@@ -378,7 +373,6 @@ void mouseMoved() {
     file.cue(time);
     file.play();
 }
-'''
 
 Στον ίδιο φάκελο που υπάρχει το αρχείο pde της processing ,πρέπει να υπάρχει ένας φάκελος data που περιέχει το ηχητικό αρχείο σε μορφή mp3  και την φωτογραφία σε μορφή jpeg
 
