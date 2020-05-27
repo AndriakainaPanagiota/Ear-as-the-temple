@@ -318,10 +318,10 @@ Heredity Study<a href="#link21">[21]</a>: 1970-71" by Athena Tacha<a href="#link
 <img align="left" width="240" height="357" src="./23 Louise Bourgeois_Ear.png"> <br/> <br/> <br/> <p> Τα αυτιά της Louise Bourgeois έχουν μια τρύπα ραμμένη σαν κουμπότρυπα «άδεια» χωρίς το κουμπί. </p> <br/> <br/>  <br/><br/> <br/> <br/> <br/><br/><br/>
 Louise Bourgeois. Ear. 2004 | MoMA 
 
-<img width="580" height="685" src="./24 Louise Bourgeois. Ears. 2004.jpg">  
+<img width="580" height="685" src="./Glowei_Worgen_Greymane.jpg">  
 Louise Bourgeois. Ears. 2004 <a href="#link23">[23]</a>
 
-<img src="./John_Baldessari.png">  
+<img width="288" heigth="318" src="./John_Baldessari.png">  
 John Baldessari ,Face with Nose and Ear, 2007
 
 
