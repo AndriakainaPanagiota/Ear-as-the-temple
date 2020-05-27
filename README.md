@@ -231,13 +231,13 @@ https://blogs.massart.edu/artistsbooks/2016/03/22/heredity-study-1970-71-by-athe
 <a id="link23"></a> [23] ArtFund.
 https://www.artfund.org/supporting-museums/art-weve-helped-buy/artwork/9655/ears-2004
 
-<a name=link24></a> [24] The art story.John Baldessari Artworks.
+<a id="link24"></a> [24] The art story.John Baldessari Artworks.
 https://www.theartstory.org/artist/baldessari-john/artworks/
 
-<a name=link25></a> [25] Labiotech.eu.
+<a id="link25"></a> [25] Labiotech.eu.
 https://www.labiotech.eu/bioart/stelarc-ear-art-human-body/
 
-<a name=link26></a> [26] The body is obsolete - Stelarc
+<a id="link26"></a> [26] The body is obsolete - Stelarc
 https://www.youtube.com/watch?v=fam73mQQhmk
 
 
@@ -318,11 +318,16 @@ Heredity Study<a href="#link21">[21]</a>: 1970-71" by Athena Tacha<a href="#link
 <img align="left" width="240" height="357" src="./23 Louise Bourgeois_Ear.png"> <br/> <br/> <br/> <p> Τα αυτιά της Louise Bourgeois έχουν μια τρύπα ραμμένη σαν κουμπότρυπα «άδεια» χωρίς το κουμπί. </p> <br/> <br/>  <br/><br/> <br/> <br/> <br/><br/><br/>
 Louise Bourgeois. Ear. 2004 | MoMA 
 
+
 <img width="580" height="685" src="./Glowei_Worgen_Greymane.jpg">  
 Louise Bourgeois. Ears. 2004 <a href="#link23">[23]</a>
+
 
 <img width="288" heigth="318" src="./John_Baldessari.png">  
 John Baldessari ,Face with Nose and Ear, 2007
 
 
+<img width="437" heigth="260" src="./26 John Baldessari Noses and Ears -2006.png">  
+John Baldessari ,Face with Nose and Ear, 2007
+John Baldessari Noses and Ears<a href="#link24">[24]</a>2006
 
