@@ -322,12 +322,14 @@ Louise Bourgeois. Ear. 2004 | MoMA
 <img width="580" height="685" src="./Glowei_Worgen_Greymane.jpg">  
 Louise Bourgeois. Ears. 2004 <a href="#link23">[23]</a>
 
-
 <img width="288" heigth="318" src="./John_Baldessari.png">  
 John Baldessari ,Face with Nose and Ear, 2007
-
 
 <img width="437" heigth="260" src="./26 John Baldessari Noses and Ears -2006.png">  
 John Baldessari ,Face with Nose and Ear, 2007
 John Baldessari Noses and Ears<a href="#link24">[24]</a>2006
+
+Ο Στέλιος Αρκαδίου γνωστός ως Stelarc ,το 2006 εμφυτεύει ένα αυτί στο χέρι του, με την ελπίδα ότι οι νέες τεχνολογίες να του δώσουν τη δυνατότητα ,οι” ιντερνετικοί” του φίλοι να ακούνε μέσω διαδικτύου, ότι ακούει το τρίτο αυτί του.
+
+<img width="465" heigth="230" src="./27 Stelarc_2006.png">Stelarc<a href="#link25">[25]</a>2006<a href="#link26">[26]</a>
 
