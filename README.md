@@ -340,6 +340,7 @@ John Baldessari Noses and Ears<a href="#link24">[24]</a>2006
 #### Παράρτημα B
 #### Διάδραση_ Κώδικας στην γλώσσα προγραμματισμού processing   
 
+'''
 import processing.sound.*;
 
 SoundFile file;
@@ -377,7 +378,7 @@ void mouseMoved() {
     file.cue(time);
     file.play();
 }
-
+'''
 
 Στον ίδιο φάκελο που υπάρχει το αρχείο pde της processing ,πρέπει να υπάρχει ένας φάκελος data που περιέχει το ηχητικό αρχείο σε μορφή mp3  και την φωτογραφία σε μορφή jpeg
 
