@@ -328,6 +328,7 @@ John Baldessari ,Face with Nose and Ear, 2007
 <img width="437" heigth="260" src="./26 John Baldessari Noses and Ears -2006.png">  
 John Baldessari ,Face with Nose and Ear, 2007
 John Baldessari Noses and Ears<a href="#link24">[24]</a>2006
+<br/>
 
 Ο Στέλιος Αρκαδίου γνωστός ως Stelarc ,το 2006 εμφυτεύει ένα αυτί στο χέρι του, με την ελπίδα ότι οι νέες τεχνολογίες να του δώσουν τη δυνατότητα ,οι” ιντερνετικοί” του φίλοι να ακούνε μέσω διαδικτύου, ότι ακούει το τρίτο αυτί του.
 
