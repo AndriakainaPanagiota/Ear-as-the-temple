@@ -176,6 +176,7 @@ other, a foreignness that reverberates along the tympanum of the <br/>
 
 <a name=link2></a> [2] Useum.Online encyclopedia of art.
 https://useum.org/artwork/The-Blinding-of-Samson-Rembrandt-1636
+
 <a name=link3></a> [3] Anderson, Mary. “Hamlet: The Dialect Between Eye and Ear.” Renaissance and Reformation 27 (1991)
 https://digital.lib.usf.edu/SFS0024732/00001-
 
