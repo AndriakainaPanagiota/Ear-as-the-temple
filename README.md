@@ -193,18 +193,18 @@ https://www.academia.edu/226059/La_piel_develada_en_las_foto-instalaciones_de_Jo
 
 <a name=link9></a> [9] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα:Εκδόσεις Καστανιώτη,2004).  
 
-<a name=link10/a> [10 Marcel Proust., Αναζητώντας τον χαμένο χρόνο, (Αθήνα :Εκδόσεις Εστία,2011) , 350.  
+<a name=link10> </a> [10] Marcel Proust., Αναζητώντας τον χαμένο χρόνο, (Αθήνα :Εκδόσεις Εστία,2011) , 350.  
 
-<a name=link11</a> [11 Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα: Εκδόσεις Καστανιώτη,2004),258.  
+<a name=link11> </a> [11] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα: Εκδόσεις Καστανιώτη,2004),258.  
 
-<a name=link12</a> [12 Ηχητικό αρχείο εργασίας
+<a name=link12> </a> [12] Ηχητικό αρχείο εργασίας
 https://drive.google.com/file/d/1DaX4qbWDAg8TofWHSEj6rxYnpw-kf-1n/view?usp=sharing  
 
-<a name=link13</a> [13 Ελίας Κανέτι, Ο πυρσός στο αυτί ,σελ259
+<a name=link13></a> [13] Ελίας Κανέτι, Ο πυρσός στο αυτί ,σελ259
 
-<a name=link14</a> [14 Ελίας Κανέτι, Ο πυρσός στο αυτί ,σελ297
+<a name=link14></a> [14] Ελίας Κανέτι, Ο πυρσός στο αυτί ,σελ297
 
-<a name=link15</a> [15 Claude Shannon:Ο πατέρας της θεωρίας της πληροφορίας, Physics 4U 
+<a name=link15></a> [15] Claude Shannon:Ο πατέρας της θεωρίας της πληροφορίας, Physics 4U 
 http://www.physics4u.gr/articles/shannon.html
 
 <a id="link16></a> [16] Κhan Academy
