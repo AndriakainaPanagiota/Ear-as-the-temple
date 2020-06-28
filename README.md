@@ -189,7 +189,7 @@ https://www.academia.edu/226059/La_piel_develada_en_las_foto-instalaciones_de_Jo
 
 <a name=link7></a> [7] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),120.  
 
-<a name=link8</a> [8] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),120.  
+<a name=link8></a> [8] Alfred Tomatis ,Το αυτί και η φωνή, (Αθήνα: Ελληνικά Γράμματα,2000),120.  
 
 <a name=link9></a> [9] Ελίας Κανέτι , Ο πυρσός στο αυτί, (Αθήνα:Εκδόσεις Καστανιώτη,2004).  
 
